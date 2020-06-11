@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 changed my f3 file
+=======
+changed my f3 file new
+>>>>>>> f4
